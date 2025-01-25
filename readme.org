@@ -4,6 +4,10 @@
 
 - $\pi_0$: $\pi_0$: A Vision-Language-Action Flow Model for  General Robot Control, Physical Intelligence, arxiv, Oct 31 2024. [[[https://physicalintelligence.company/blog/pi0][Website]]] [[[http://arxiv.org/abs/2410.24164][Paper]]]
 
-- *OpenVLA*: OpenVLA: An Open-Source Vision-Language-Action Model, Stanford University & UC Berkeley & Toyota Research Insititute, arxiv, Jun 13 2024. [[[OpenVLA: An Open-Source Vision-Language-Action Model][Website]]] [[[OpenVLA: An Open-Source Vision-Language-Action Model][Paper]]]
+- *OpenVLA*: OpenVLA: An Open-Source Vision-Language-Action Model, Stanford University & UC Berkeley & Toyota Research Insititute, arxiv, Jun 13 2024. [[[https://diffusion-vla.github.io/][Website]][[OpenVLA: An Open-Source Vision-Language-Action Model][] ]][[[http://arxiv.org/abs/2412.03293][Paper]]]
 
-- *Diffusion-VLA*: Diffusion-VLA:  Scaling Robot Foundation Models via Unified Diffusion and Autoregression, East China Normal University, arxiv, Dec 4 2024. [[[https://diffusion-vla.github.io/][Website]]] [[[http://arxiv.org/abs/2412.03293][Paper]]]
+- *Diffusion-VLA*: Diffusion-VLA:  Scaling Robot Foundation Models via Unified Diffusion and Autoregression, East China Normal University, arxiv, Dec 4 2024. [[[https://diffusion-vla.github.io/][Website]]] [[[http://arxiv.org/abs/2412.03293][Paper]]]
+
+- *TRACEVLA*: TRACEVLA: VISUAL TRACE PROMPTING ENHANCES  SPATIAL-TEMPORAL AWARENESS FOR GENERALIST  ROBOTIC POLICIES, University of Maryland, arxiv, Dec 25 2024. [[[http://arxiv.org/abs/2412.10345][Paper]]]
+
+- *FuSe*: Beyond Sight: Finetuning Generalist Robot Policies with  Heterogeneous Sensors via Language Grounding, UC Berkeley, arxiv, Jan 8 2025. [[[https://fuse-model.github.io/][Website]]] [[[http://arxiv.org/abs/2501.04693][Paper]]]
