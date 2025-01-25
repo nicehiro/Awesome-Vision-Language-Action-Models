@@ -1,3 +1,5 @@
 * Awesome Vision-Language-Action Models
 
-- *$\pi_0$*: $\pi_0$: A Vision-Language-Action Flow Model for  General Robot Control, Physical Intelligence, arxiv, Oct 31. [[[https://physicalintelligence.company/blog/pi0][Website]]] [[[http://arxiv.org/abs/2410.24164][Paper]]]
+- $\bm{\pi_0}$: $\pi_0$: A Vision-Language-Action Flow Model for  General Robot Control, Physical Intelligence, arxiv, Oct 31. [[[https://physicalintelligence.company/blog/pi0][Website]]] [[[http://arxiv.org/abs/2410.24164][Paper]]]
+
+- *OpenVLA*: OpenVLA: An Open-Source Vision-Language-Action Model, arxiv, Jun 13. [[[OpenVLA: An Open-Source Vision-Language-Action Model][Website]]] [[[OpenVLA: An Open-Source Vision-Language-Action Model][Paper]]]
