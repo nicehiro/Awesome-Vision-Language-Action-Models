@@ -1,5 +1,9 @@
-* Awesome Vision-Language-Action Models
+#+title: Awesome Vision-Language-Action (VLA) Models
+#+latex_header: usepackage{arev}
 
-- $\bm{\pi_0}$: $\pi_0$: A Vision-Language-Action Flow Model for  General Robot Control, Physical Intelligence, arxiv, Oct 31. [[[https://physicalintelligence.company/blog/pi0][Website]]] [[[http://arxiv.org/abs/2410.24164][Paper]]]
 
-- *OpenVLA*: OpenVLA: An Open-Source Vision-Language-Action Model, arxiv, Jun 13. [[[OpenVLA: An Open-Source Vision-Language-Action Model][Website]]] [[[OpenVLA: An Open-Source Vision-Language-Action Model][Paper]]]
+- $\pi_0$: $\pi_0$: A Vision-Language-Action Flow Model for  General Robot Control, Physical Intelligence, arxiv, Oct 31 2024. [[[https://physicalintelligence.company/blog/pi0][Website]]] [[[http://arxiv.org/abs/2410.24164][Paper]]]
+
+- *OpenVLA*: OpenVLA: An Open-Source Vision-Language-Action Model, Stanford University & UC Berkeley & Toyota Research Insititute, arxiv, Jun 13 2024. [[[OpenVLA: An Open-Source Vision-Language-Action Model][Website]]] [[[OpenVLA: An Open-Source Vision-Language-Action Model][Paper]]]
+
+- *Diffusion-VLA*: Diffusion-VLA:  Scaling Robot Foundation Models via Unified Diffusion and Autoregression, East China Normal University, arxiv, Dec 4 2024. [[[https://diffusion-vla.github.io/][Website]]] [[[http://arxiv.org/abs/2412.03293][Paper]]]
