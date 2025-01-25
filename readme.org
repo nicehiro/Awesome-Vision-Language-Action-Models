@@ -2,12 +2,21 @@
 #+latex_header: usepackage{arev}
 
 
+- *FAST*: FAST: Efficient Action Tokenization for  Vision-Language-Action Models, Physical Intelligence & UC Berkeley & Stanford, arxiv, Jan 16 2025. [[[https://pi.website/research/fast][Website]]] [[[http://arxiv.org/abs/2501.09747][Paper]]] [[[https://huggingface.co/physical-intelligence/fast][Tokenizer]]]
+
+- *FuSe*: Beyond Sight: Finetuning Generalist Robot Policies with  Heterogeneous Sensors via Language Grounding, UC Berkeley, arxiv, Jan 8 2025. [[[https://fuse-model.github.io/][Website]]] [[[http://arxiv.org/abs/2501.04693][Paper]]] [[[https://github.com/fuse-model/FuSe][Code]]] [[[https://huggingface.co/datasets/oier-mees/FuSe][Model]]]
+
+- *TRACEVLA*: TRACEVLA: VISUAL TRACE PROMPTING ENHANCES  SPATIAL-TEMPORAL AWARENESS FOR GENERALIST  ROBOTIC POLICIES, University of Maryland, arxiv, Dec 25 2024. [[[http://arxiv.org/abs/2412.10345][Paper]]]
+
+- *EMMA-X*: EMMA-X: An Embodied Multimodal Action Model with Grounded Chain of Thought and Look-ahead Spatial Reasoning, Singapore University of Technology and Design, Dec 17 2024. [[[https: //declare-lab.github.io/Emma-X/][Website]]] [[[http://arxiv.org/abs/2412.11974][Paper]]] [[[https://github.com/declare-lab/Emma-X][Code]]]
+
+- *Diffusion-VLA*: Diffusion-VLA:  Scaling Robot Foundation Models via Unified Diffusion and Autoregression, East China Normal University, arxiv, Dec 4 2024. [[[https://diffusion-vla.github.io/][Website]]] [[[http://arxiv.org/abs/2412.03293][Paper]]]
+
 - $\pi_0$: $\pi_0$: A Vision-Language-Action Flow Model for  General Robot Control, Physical Intelligence, arxiv, Oct 31 2024. [[[https://physicalintelligence.company/blog/pi0][Website]]] [[[http://arxiv.org/abs/2410.24164][Paper]]]
 
-- *OpenVLA*: OpenVLA: An Open-Source Vision-Language-Action Model, Stanford University & UC Berkeley & Toyota Research Insititute, arxiv, Jun 13 2024. [[[https://diffusion-vla.github.io/][Website]][[OpenVLA: An Open-Source Vision-Language-Action Model][] ]][[[http://arxiv.org/abs/2412.03293][Paper]]]
+- *OpenVLA*: OpenVLA: An Open-Source Vision-Language-Action Model, Stanford University & UC Berkeley & Toyota Research Insititute, arxiv, Jun 13 2024. [[[https://openvla.github.io][Website]]] [[[http://arxiv.org/abs/2412.03293][Paper]]] [[[https://github.com/openvla/openvla][Code]]] [[[https://huggingface.co/openvla][Model]]]
 
-- *Diffusion-VLA*: Diffusion-VLA:  Scaling Robot Foundation Models via Unified Diffusion and Autoregression, East China Normal University, arxiv, Dec 4 2024. [[[https://diffusion-vla.github.io/][Website]]] [[[http://arxiv.org/abs/2412.03293][Paper]]]
 
-- *TRACEVLA*: TRACEVLA: VISUAL TRACE PROMPTING ENHANCES  SPATIAL-TEMPORAL AWARENESS FOR GENERALIST  ROBOTIC POLICIES, University of Maryland, arxiv, Dec 25 2024. [[[http://arxiv.org/abs/2412.10345][Paper]]]
+** For Humanoid Robots
 
-- *FuSe*: Beyond Sight: Finetuning Generalist Robot Policies with  Heterogeneous Sensors via Language Grounding, UC Berkeley, arxiv, Jan 8 2025. [[[https://fuse-model.github.io/][Website]]] [[[http://arxiv.org/abs/2501.04693][Paper]]]
+- *NAVILA*: NAVILA: LEGGED ROBOT VISION-LANGUAGEACTION MODEL FOR NAVIGATION, UC San Diego, arxiv, Dec 5 2024. [[[https://navila-bot.github.io/][Website]]] [[[http://arxiv.org/abs/2412.04453][Paper]]]
