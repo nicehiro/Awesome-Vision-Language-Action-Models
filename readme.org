@@ -2,6 +2,12 @@
 #+latex_header: usepackage{arev}
 
 
+- *DexVLA*: DexVLA: Vision-Language Model with Plug-In  Diffusion Expert for General Robot Control, Midea Group & East China Normal University, arxiv, Feb 9 2025. [[[http://arxiv.org/abs/2502.05855][Paper]]] [[[https://dex-vla.github.io/][Website]]] [[[https://github.com/lesjie-wen/dexvla][Code]]]
+
+- *VLA-Cache*: Towards Efficient Vision-Language-Action Model via Adaptive  Token Caching in Robotic Manipulation, University of Sydney, arxiv, Feb 4 2025. [[[http://arxiv.org/abs/2502.02175][Paper]]]
+
+- *UP-VLA*: A Unified Understanding and Prediction Model for Embodied Agent, Tsinghua University & Shanghai Qi Zhi Institute, arxiv, Feb 3 2025. [[[http://arxiv.org/abs/2501.18867][Paper]]]
+
 - *FAST*: FAST: Efficient Action Tokenization for  Vision-Language-Action Models, Physical Intelligence & UC Berkeley & Stanford, arxiv, Jan 16 2025. [[[https://pi.website/research/fast][Website]]] [[[http://arxiv.org/abs/2501.09747][Paper]]] [[[https://huggingface.co/physical-intelligence/fast][Tokenizer]]]
 
 - *FuSe*: Beyond Sight: Finetuning Generalist Robot Policies with  Heterogeneous Sensors via Language Grounding, UC Berkeley, arxiv, Jan 8 2025. [[[https://fuse-model.github.io/][Website]]] [[[http://arxiv.org/abs/2501.04693][Paper]]] [[[https://github.com/fuse-model/FuSe][Code]]] [[[https://huggingface.co/datasets/oier-mees/FuSe][Model]]]
@@ -12,7 +18,7 @@
 
 - *Diffusion-VLA*: Diffusion-VLA:  Scaling Robot Foundation Models via Unified Diffusion and Autoregression, East China Normal University, arxiv, Dec 4 2024. [[[https://diffusion-vla.github.io/][Website]]] [[[http://arxiv.org/abs/2412.03293][Paper]]]
 
-- $\pi_0$: $\pi_0$: A Vision-Language-Action Flow Model for  General Robot Control, Physical Intelligence, arxiv, Oct 31 2024. [[[https://physicalintelligence.company/blog/pi0][Website]]] [[[http://arxiv.org/abs/2410.24164][Paper]]]
+- $\pi_0$: $\pi_0$: A Vision-Language-Action Flow Model for  General Robot Control, Physical Intelligence, arxiv, Oct 31 2024. [[[https://physicalintelligence.company/blog/pi0][Website]]] [[[http://arxiv.org/abs/2410.24164][Paper]]] [[[https://github.com/Physical-Intelligence/openpi][Code]]]
 
 - *OpenVLA*: OpenVLA: An Open-Source Vision-Language-Action Model, Stanford University & UC Berkeley & Toyota Research Insititute, arxiv, Jun 13 2024. [[[https://openvla.github.io][Website]]] [[[http://arxiv.org/abs/2412.03293][Paper]]] [[[https://github.com/openvla/openvla][Code]]] [[[https://huggingface.co/openvla][Model]]]
 
