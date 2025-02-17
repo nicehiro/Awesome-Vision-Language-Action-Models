@@ -8,7 +8,7 @@
 
 - *UP-VLA*: A Unified Understanding and Prediction Model for Embodied Agent, Tsinghua University & Shanghai Qi Zhi Institute, arxiv, Feb 3 2025. [[[http://arxiv.org/abs/2501.18867][Paper]]]
 
-- *FAST*: FAST: Efficient Action Tokenization for  Vision-Language-Action Models, Physical Intelligence & UC Berkeley & Stanford, arxiv, Jan 16 2025. [[[https://pi.website/research/fast][Website]]] [[[http://arxiv.org/abs/2501.09747][Paper]]] [[[https://huggingface.co/physical-intelligence/fast][Tokenizer]]]
+- *FAST*: FAST: Efficient Action Tokenization for  Vision-Language-Action Models, Physical Intelligence & UC Berkeley & Stanford, arxiv, Jan 16 2025. [[[https://pi.website/research/fast][Website]]] [[[http://arxiv.org/abs/2501.09747][Paper]]] [[[https://huggingface.co/physical-intelligence/fast][Tokenizer]]] [[[https://github.com/Physical-Intelligence/openpi][Code]]]
 
 - *FuSe*: Beyond Sight: Finetuning Generalist Robot Policies with  Heterogeneous Sensors via Language Grounding, UC Berkeley, arxiv, Jan 8 2025. [[[https://fuse-model.github.io/][Website]]] [[[http://arxiv.org/abs/2501.04693][Paper]]] [[[https://github.com/fuse-model/FuSe][Code]]] [[[https://huggingface.co/datasets/oier-mees/FuSe][Model]]]
 
