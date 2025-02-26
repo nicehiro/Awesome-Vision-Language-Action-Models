@@ -2,11 +2,21 @@
 #+latex_header: usepackage{arev}
 
 
+- *ChatVLA*: ChatVLA: Unified Multimodal Understanding and Robot Control  with Vision-Language-Action Model, Midea Group & East China Normal University, arxiv, Feb 21 2025. [[[http://arxiv.org/abs/2502.14420][Paper]]] [[[https://chatvla.github.io/][Website]]]
+
+- *VLAS*: VLAS: VISION-LANGUAGE-ACTION MODEL WITH  SPEECH INSTRUCTIONS FOR CUSTOMIZED ROBOT  MANIPULATION, Westlake University, arxiv, Feb 21 2025. [[[http://arxiv.org/abs/2502.13508][Paper]]] [[[https://github.com/whichwhichgone/VLAS][Code]]]
+
 - *DexVLA*: DexVLA: Vision-Language Model with Plug-In  Diffusion Expert for General Robot Control, Midea Group & East China Normal University, arxiv, Feb 9 2025. [[[http://arxiv.org/abs/2502.05855][Paper]]] [[[https://dex-vla.github.io/][Website]]] [[[https://github.com/lesjie-wen/dexvla][Code]]]
+
+- *ConRFT*: ConRFT: A Reinforced Fine-tuning Method for  VLA Models via Consistency Policy, Chinese Academy of Sciences, arxiv, Feb 8 2025. [[[http://arxiv.org/abs/2502.05450][Paper]]] [[[https://cccedric.github.io/conrft/][Website]]]
 
 - *VLA-Cache*: Towards Efficient Vision-Language-Action Model via Adaptive  Token Caching in Robotic Manipulation, University of Sydney, arxiv, Feb 4 2025. [[[http://arxiv.org/abs/2502.02175][Paper]]]
 
 - *UP-VLA*: A Unified Understanding and Prediction Model for Embodied Agent, Tsinghua University & Shanghai Qi Zhi Institute, arxiv, Feb 3 2025. [[[http://arxiv.org/abs/2501.18867][Paper]]]
+
+- *iRe-VLA*: Improving Vision-Language-Action Model with  Online Reinforcement Learning, Tsinghua University & Shanghai Qi Zhi Institute, arxiv, Jan 28 2025. [[[http://arxiv.org/abs/2501.16664][Paper]]]
+
+- *SpatialVLA*: SpatialVLA: Exploring Spatial Representations for  Visual-Language-Action Models, Shanghai AI Lab, arxiv, Jan 28 2025. [[[http://arxiv.org/abs/2501.15830][Paper]]] [[[https://spatialvla.github.io/][Website]]] [[[https://huggingface.co/collections/IPEC-COMMUNITY/foundation-vision-language-action-model-6795eb96a9c661f90236acbb][Model]]] [[[https://github.com/SpatialVLA/SpatialVLA][Code]]]
 
 - *FAST*: FAST: Efficient Action Tokenization for  Vision-Language-Action Models, Physical Intelligence & UC Berkeley & Stanford, arxiv, Jan 16 2025. [[[https://pi.website/research/fast][Website]]] [[[http://arxiv.org/abs/2501.09747][Paper]]] [[[https://huggingface.co/physical-intelligence/fast][Tokenizer]]] [[[https://github.com/Physical-Intelligence/openpi][Code]]]
 
@@ -26,3 +36,5 @@
 ** For Humanoid Robots
 
 - *NAVILA*: NAVILA: LEGGED ROBOT VISION-LANGUAGEACTION MODEL FOR NAVIGATION, UC San Diego, arxiv, Dec 5 2024. [[[https://navila-bot.github.io/][Website]]] [[[http://arxiv.org/abs/2412.04453][Paper]]]
+
+- *Humanoid-VLA*: Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration, Westlake University & Zhejiang University, arxiv, Feb 21 2025. [[[http://arxiv.org/abs/2502.14795][Paper]]]
