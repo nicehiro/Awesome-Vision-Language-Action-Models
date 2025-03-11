@@ -2,11 +2,15 @@
 #+latex_header: usepackage{arev}
 
 
+- *OTTER*: OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction, UC Berkeley, arxiv, Mar 5 2025. [[[http://arxiv.org/abs/2503.03734][Paper]]] [[[https://ottervla.github.io/][Website]]] [[[https://github.com/FangchenLiu/otter_jax][Code JAX]]] [[[https://github.com/Max-Fu/otter][Code Torch]]]
+
+- *PD-VLA*: Accelerating Vision-Language-Action Model Integrated with Action  Chunking via Parallel Decoding, HKUST (GZ), arxiv, Mar 4 2025. [[[http://arxiv.org/abs/2503.02310][Paper]]]
+
 - *ChatVLA*: ChatVLA: Unified Multimodal Understanding and Robot Control  with Vision-Language-Action Model, Midea Group & East China Normal University, arxiv, Feb 21 2025. [[[http://arxiv.org/abs/2502.14420][Paper]]] [[[https://chatvla.github.io/][Website]]]
 
 - *VLAS*: VLAS: VISION-LANGUAGE-ACTION MODEL WITH  SPEECH INSTRUCTIONS FOR CUSTOMIZED ROBOT  MANIPULATION, Westlake University, arxiv, Feb 21 2025. [[[http://arxiv.org/abs/2502.13508][Paper]]] [[[https://github.com/whichwhichgone/VLAS][Code]]]
 
-- *DexVLA*: DexVLA: Vision-Language Model with Plug-In  Diffusion Expert for General Robot Control, Midea Group & East China Normal University, arxiv, Feb 9 2025. [[[http://arxiv.org/abs/2502.05855][Paper]]] [[[https://dex-vla.github.io/][Website]]] [[[https://github.com/lesjie-wen/dexvla][Code]]]
+- *DexVLA*: DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control, Midea Group & East China Normal University, arxiv, Feb 9 2025. [[[http://arxiv.org/abs/2502.05855][Paper]]] [[[https://dex-vla.github.io/][Website]]] [[[https://github.com/lesjie-wen/dexvla][Code]]]
 
 - *ConRFT*: ConRFT: A Reinforced Fine-tuning Method for  VLA Models via Consistency Policy, Chinese Academy of Sciences, arxiv, Feb 8 2025. [[[http://arxiv.org/abs/2502.05450][Paper]]] [[[https://cccedric.github.io/conrft/][Website]]]
 
