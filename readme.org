@@ -20,8 +20,6 @@
 
 - *iRe-VLA*: Improving Vision-Language-Action Model with  Online Reinforcement Learning, Tsinghua University & Shanghai Qi Zhi Institute, arxiv, Jan 28 2025. [[[http://arxiv.org/abs/2501.16664][Paper]]]
 
-- *SpatialVLA*: SpatialVLA: Exploring Spatial Representations for  Visual-Language-Action Models, Shanghai AI Lab, arxiv, Jan 28 2025. [[[http://arxiv.org/abs/2501.15830][Paper]]] [[[https://spatialvla.github.io/][Website]]] [[[https://huggingface.co/collections/IPEC-COMMUNITY/foundation-vision-language-action-model-6795eb96a9c661f90236acbb][Model]]] [[[https://github.com/SpatialVLA/SpatialVLA][Code]]]
-
 - *FAST*: FAST: Efficient Action Tokenization for  Vision-Language-Action Models, Physical Intelligence & UC Berkeley & Stanford, arxiv, Jan 16 2025. [[[https://pi.website/research/fast][Website]]] [[[http://arxiv.org/abs/2501.09747][Paper]]] [[[https://huggingface.co/physical-intelligence/fast][Tokenizer]]] [[[https://github.com/Physical-Intelligence/openpi][Code]]]
 
 - *FuSe*: Beyond Sight: Finetuning Generalist Robot Policies with  Heterogeneous Sensors via Language Grounding, UC Berkeley, arxiv, Jan 8 2025. [[[https://fuse-model.github.io/][Website]]] [[[http://arxiv.org/abs/2501.04693][Paper]]] [[[https://github.com/fuse-model/FuSe][Code]]] [[[https://huggingface.co/datasets/oier-mees/FuSe][Model]]]
