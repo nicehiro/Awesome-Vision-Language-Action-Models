@@ -2,6 +2,8 @@
 #+latex_header: usepackage{arev}
 
 
+- *GO-1*: AgiBot World Colosseo: Large-scale Manipulation Platform  for Scalable and Intelligent Embodied Systems, AgiBot-World (Shanghai AI Lab & AgiBot Inc.), AgiBot World, Mar 10 2025. [[[https://agibot-world.com/blog/go1#:~:text=Paper:-,agibot_go1.pdf][Paper]]] [[[https://agibot-world.com][Website]]] [[[https://github.com/OpenDriveLab/Agibot-World][Code]]] [[[https://huggingface.co/agibot-world][Model]]]
+
 - *OTTER*: OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction, UC Berkeley, arxiv, Mar 5 2025. [[[http://arxiv.org/abs/2503.03734][Paper]]] [[[https://ottervla.github.io/][Website]]] [[[https://github.com/FangchenLiu/otter_jax][Code JAX]]] [[[https://github.com/Max-Fu/otter][Code Torch]]]
 
 - *PD-VLA*: Accelerating Vision-Language-Action Model Integrated with Action  Chunking via Parallel Decoding, HKUST (GZ), arxiv, Mar 4 2025. [[[http://arxiv.org/abs/2503.02310][Paper]]]
