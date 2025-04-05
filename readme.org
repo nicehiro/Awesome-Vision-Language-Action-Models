@@ -12,6 +12,8 @@ Vision-Language-Action models typically utilize pre-trained vision-language mode
 
 * VLAs
 
+- *CoT-VLA*: CoT-VLA: Visual Chain-of-Thought Reasoning for  Vision-Language-Action Models, NVIDIA & Stanford, arxiv, Mar 27 2025. [[[http://arxiv.org/abs/2503.22020][Paper]]] [[[https://cot-vla.github.io/][Website]]]
+
 - *MoLe-VLA*: MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via  Mixture-of-Layers for Efficient Robot Manipulation, Nanjing University & HK PolyU & Peking University, Mar 26 2025. [[[http://arxiv.org/abs/2503.20384][Paper]]] [[[https://sites.google.com/view/mole-vla][Website]]] [[[https://github.com/RoyZry98/MoLe-VLA-Pytorch/][Code]]]
 
 - *HybridVLA*: HybridVLA: Collaborative Diffusion and Autoregression in  a Unified Vision-Language-Action Model, Peking University, Mar 13 2025. [[[http://arxiv.org/abs/2503.10631][Paper]]] [[[https://hybrid-vla.github.io][Website]]] [[[https://github.com/PKU-HMI-Lab/Hybrid-VLA][Code]]]
