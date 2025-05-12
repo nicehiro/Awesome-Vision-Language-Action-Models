@@ -56,6 +56,8 @@ Vision-Language-Action models typically utilize pre-trained vision-language mode
 
 - *CogACT*: CogACT: A Foundational Vision-Language-Action Model for Synergizing  Cognition and Action in Robotic Manipulation, Tsinghua University, arxiv, Nov 29 2024. [[[http://arxiv.org/abs/2411.19650][Paper]]] [[[https://cogact.github.io][Website]]] [[[https://github.com/microsoft/CogACT][Code]]] [[[https://huggingface.co/CogACT][Model]]]
 
+- *DeeR-VLA*: DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution, Tsinghua University, NeurIPS 24. [[[https://openreview.net/forum?id=QKp3nhPU41&referrer=%5Bthe%20profile%20of%20Yizeng%20Han%5D(%2Fprofile%3Fid%3D~Yizeng_Han1)][Paper]]] [[[https://github.com/yueyang130/DeeR-VLA][Website]]] [[[https://github.com/yueyang130/DeeR-VLA][Code]]]
+
 - $\pi_0$: $\pi_0$: A Vision-Language-Action Flow Model for  General Robot Control, Physical Intelligence, arxiv, Oct 31 2024. [[[https://physicalintelligence.company/blog/pi0][Website]]] [[[http://arxiv.org/abs/2410.24164][Paper]]] [[[https://github.com/Physical-Intelligence/openpi][Code]]]
 
 - *OpenVLA*: OpenVLA: An Open-Source Vision-Language-Action Model, Stanford University & UC Berkeley & Toyota Research Insititute, arxiv, Jun 13 2024. [[[https://openvla.github.io][Website]]] [[[http://arxiv.org/abs/2412.03293][Paper]]] [[[https://github.com/openvla/openvla][Code]]] [[[https://huggingface.co/openvla][Model]]]
