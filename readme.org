@@ -12,11 +12,18 @@ Vision-Language-Action models typically utilize pre-trained vision-language mode
 
 * VLAs
 
-- *OFT*: Fine-Tuning Vision-Language-Action Models:  Optimizing Speed and Success, Stanford, arxiv, Apr 28 2025. [[[https://arxiv.org/abs/2502.19645][Paper]]] [[[https://openvla-oft.github.io/][Website]]] [[[https://github.com/moojink/openvla-oft][Code]]] [[[https://huggingface.co/moojink?search_models=oft][Model]]]
 
-- *NORA*: NORA: A SMALL OPEN-SOURCED GENERALIST VISION  LANGUAGE ACTION MODEL FOR EMBODIED TASKS, Singapore University of Technology and Design, arxiv, Apr 28 2025. [[[http://arxiv.org/abs/2504.19854][Paper]]]
+- *UniVLA*: Learning to Act Anywhere with  Task-centric Latent Actions, The University of Hong Kong, arxiv, May 9 2025. [[[http://arxiv.org/abs/2505.06111][Paper]]] [[[https://github.com/OpenDriveLab/UniVLA][Code]]]
 
-- *$\pi_{0.5}$*: $\pi_{0.5}$: a Vision-Language-Action Model with  Open-World Generalization, Physical Intelligence, arxiv, Apr 22 2025. [[[http://arxiv.org/abs/2504.16054][Paper]]] [[[https://www.pi.website/blog/pi05][Website]]]
+- *3D-CAVLA*: 3D-CAVLA: Leveraging Depth and 3D Context to Generalize Vision–Language Action Models for Unseen Tasks, New York University, arxiv, May 9 2025. [[[http://arxiv.org/abs/2505.05800][Paper]]] [[[https://3d-cavla.github.io/][Website]]]
+
+- *OpenHelix*: A Short Survey, Empirical Analysis, and Open-Source Dual-System  VLA Model for Robotic Manipulation, Westlake University, arxiv, May 6 2025. [[[http://arxiv.org/abs/2505.03912][Paper]]]
+
+- *OFT*: Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success, Stanford, arxiv, Apr 28 2025. [[[https://arxiv.org/abs/2502.19645][Paper]]] [[[https://openvla-oft.github.io/][Website]]] [[[https://github.com/moojink/openvla-oft][Code]]] [[[https://huggingface.co/moojink?search_models=oft][Model]]]
+
+- *NORA*: NORA: A SMALL OPEN-SOURCED GENERALIST VISION LANGUAGE ACTION MODEL FOR EMBODIED TASKS, Singapore University of Technology and Design, arxiv, Apr 28 2025. [[[http://arxiv.org/abs/2504.19854][Paper]]]
+
+- *$\pi_{0.5}$*: $\pi_{0.5}$: a Vision-Language-Action Model with Open-World Generalization, Physical Intelligence, arxiv, Apr 22 2025. [[[http://arxiv.org/abs/2504.16054][Paper]]] [[[https://www.pi.website/blog/pi05][Website]]]
 
 - *CoT-VLA*: CoT-VLA: Visual Chain-of-Thought Reasoning for  Vision-Language-Action Models, NVIDIA & Stanford, arxiv, Mar 27 2025. [[[http://arxiv.org/abs/2503.22020][Paper]]] [[[https://cot-vla.github.io/][Website]]]
 
