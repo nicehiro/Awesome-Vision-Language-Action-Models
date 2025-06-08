@@ -27,6 +27,8 @@ Two principal mechanisms are used to connect the vision–language backbone to t
 
 ** Single-system VLA
 
+- *LoHoVLA*: A Unified Vision-Language-Action Model for Long-Horizon Embodied Tasks, arxiv, May 31 2025. [[[http://arxiv.org/abs/2506.00411][Paper]]]
+
 - *UniVLA*: Learning to Act Anywhere with  Task-centric Latent Actions, The University of Hong Kong, arxiv, May 9 2025. [[[http://arxiv.org/abs/2505.06111][Paper]]] [[[https://github.com/OpenDriveLab/UniVLA][Code]]]
 
 - *3D-CAVLA*: 3D-CAVLA: Leveraging Depth and 3D Context to Generalize Vision–Language Action Models for Unseen Tasks, New York University, arxiv, May 9 2025. [[[http://arxiv.org/abs/2505.05800][Paper]]] [[[https://3d-cavla.github.io/][Website]]]
@@ -65,6 +67,8 @@ Two principal mechanisms are used to connect the vision–language backbone to t
 
 *** Feature-pooling-bridged
 
+- *SmolVLA*: A vision-language-action model for affordable and efficient robotics, Hugging Face, arxiv, Jun 4 2025. [[[http://arxiv.org/abs/2506.01844][Paper]]] [[[https://huggingface.co/blog/smolvla][Website]]] [[[https://huggingface.co/blog/smolvla][Model]]]
+
 - *$\pi_{0.5}$*: $\pi_{0.5}$: a Vision-Language-Action Model with Open-World Generalization, Physical Intelligence, arxiv, Apr 22 2025. [[[http://arxiv.org/abs/2504.16054][Paper]]] [[[https://www.pi.website/blog/pi05][Website]]]
 
 - *Hi Robot*: Hi Robot: Open-Ended Instruction Following with Hierarchical  Vision-Language-Action Models, Physical Intelligence & Stanford University, arxiv, Feb 26 2025. [[[http://arxiv.org/abs/2502.19417][Paper]]] [[[https://www.pi.website/research/hirobot][Website]]]
@@ -84,6 +88,8 @@ Two principal mechanisms are used to connect the vision–language backbone to t
 - *DeeR-VLA*: DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution, Tsinghua University, NeurIPS 24. [[[https://openreview.net/forum?id=QKp3nhPU41&referrer=%5Bthe%20profile%20of%20Yizeng%20Han%5D(%2Fprofile%3Fid%3D~Yizeng_Han1)][Paper]]] [[[https://github.com/yueyang130/DeeR-VLA][Website]]] [[[https://github.com/yueyang130/DeeR-VLA][Code]]]
 
 *** Others
+
+- Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better, Physical Intelligence, May 29 2025. [[[http://arxiv.org/abs/2505.23705][Paper]]] [[[https://pi.website/research/knowledge_insulation][Website]]]
 
 - *OFT*: Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success, Stanford, arxiv, Apr 28 2025. [[[https://arxiv.org/abs/2502.19645][Paper]]] [[[https://openvla-oft.github.io/][Website]]] [[[https://github.com/moojink/openvla-oft][Code]]] [[[https://huggingface.co/moojink?search_models=oft][Model]]]
 
