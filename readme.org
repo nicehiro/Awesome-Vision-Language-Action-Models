@@ -15,15 +15,18 @@ Vision-Language-Action models typically utilize pre-trained vision-language mode
 
 We categorize current VLA architectures into two broad families:
 
-- Single‑system VLAs. A single vision–language model handles perception, reasoning, and action prediction. Continuous motor commands are first discretized by a learned action tokenizer (derived from the text tokenizer), and the model simply generates these tokens in sequence.
+- *Single‑system VLAs.* A single vision–language model handles perception, reasoning, and action prediction. Continuous motor commands are first discretized by a learned action tokenizer (derived from the text tokenizer), and the model simply generates these tokens in sequence.
 
-- Dual‑system VLAs. High‑level understanding and low‑level control are split. A vision–language backbone encodes the current images and instruction, while a dedicated action‑policy network produces continuous commands from those embeddings.
+- *Dual‑system VLAs.* High‑level understanding and low‑level control are split. A vision–language backbone encodes the current images and instruction, while a dedicated action‑policy network produces continuous commands from those embeddings.
 
 Two principal mechanisms are used to connect the vision–language backbone to the action head:
 
-- Special‑token-bridged. During VLM fine‑tuning, a reserved token such as _<ACT>_ is appended; its final embedding is passed directly to the policy.
+- *Special‑token-bridged.* During VLM fine‑tuning, a reserved token such as _<ACT>_ is appended; its final embedding is passed directly to the policy.
 
-- Feature‑pooling-bridged. The full sequence of hidden states is aggregated—via max‑pooling, mean‑pooling, or learned attention—to yield a compact feature vector fed to the policy.
+- *Feature‑pooling-bridged.* The full sequence of hidden states is aggregated—via max‑pooling, mean‑pooling, or learned attention—to yield a compact feature vector fed to the policy.
+
+- *Cross-attention-bridged.* The action expert uses interleaved cross-attention layers to directly attend to the VLM's hidden representations throughout the forward pass.
+
 
 ** Single-system VLA
 
@@ -67,11 +70,7 @@ Two principal mechanisms are used to connect the vision–language backbone to t
 
 *** Feature-pooling-bridged
 
-- *SmolVLA*: A vision-language-action model for affordable and efficient robotics, Hugging Face, arxiv, Jun 4 2025. [[[http://arxiv.org/abs/2506.01844][Paper]]] [[[https://huggingface.co/blog/smolvla][Website]]] [[[https://huggingface.co/blog/smolvla][Model]]]
-
 - *OneTwoVLA*: A Unified Vision-Language-Action Model with Adaptive Reasoning, Tsinghua & Shanghai Qi Zhi & Shanghai AI Lab, arxiv, May 17 2025. [[[http://arxiv.org/abs/2505.11917][Paper]]] [[[https://one-two-vla.github.io][Website]]] [[[https://github.com/Fanqi-Lin/OneTwoVLA][Code]]] [[[https://huggingface.co/datasets/Richard-Nai/onetwovla-dataset][Data]]]
-
-- *$\pi_{0.5}$*: $\pi_{0.5}$: a Vision-Language-Action Model with Open-World Generalization, Physical Intelligence, arxiv, Apr 22 2025. [[[http://arxiv.org/abs/2504.16054][Paper]]] [[[https://www.pi.website/blog/pi05][Website]]]
 
 - *Hi Robot*: Hi Robot: Open-Ended Instruction Following with Hierarchical  Vision-Language-Action Models, Physical Intelligence & Stanford University, arxiv, Feb 26 2025. [[[http://arxiv.org/abs/2502.19417][Paper]]] [[[https://www.pi.website/research/hirobot][Website]]]
 
@@ -85,9 +84,16 @@ Two principal mechanisms are used to connect the vision–language backbone to t
 
 - *FAST*: FAST: Efficient Action Tokenization for  Vision-Language-Action Models, Physical Intelligence & UC Berkeley & Stanford, arxiv, Jan 16 2025. [[[https://pi.website/research/fast][Website]]] [[[http://arxiv.org/abs/2501.09747][Paper]]] [[[https://huggingface.co/physical-intelligence/fast][Tokenizer]]] [[[https://github.com/Physical-Intelligence/openpi][Code]]]
 
-- $\pi_0$: $\pi_0$: A Vision-Language-Action Flow Model for  General Robot Control, Physical Intelligence, arxiv, Oct 31 2024. [[[https://physicalintelligence.company/blog/pi0][Website]]] [[[http://arxiv.org/abs/2410.24164][Paper]]] [[[https://github.com/Physical-Intelligence/openpi][Code]]]
-
 - *DeeR-VLA*: DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution, Tsinghua University, NeurIPS 24. [[[https://openreview.net/forum?id=QKp3nhPU41&referrer=%5Bthe%20profile%20of%20Yizeng%20Han%5D(%2Fprofile%3Fid%3D~Yizeng_Han1)][Paper]]] [[[https://github.com/yueyang130/DeeR-VLA][Website]]] [[[https://github.com/yueyang130/DeeR-VLA][Code]]]
+
+
+*** Cross-attention-bridged
+
+- *SmolVLA*: A vision-language-action model for affordable and efficient robotics, Hugging Face, arxiv, Jun 4 2025. [[[http://arxiv.org/abs/2506.01844][Paper]]] [[[https://huggingface.co/blog/smolvla][Website]]] [[[https://huggingface.co/blog/smolvla][Model]]]
+
+- $\pi_{0.5}$: $\pi_{0.5}$: a Vision-Language-Action Model with Open-World Generalization, Physical Intelligence, arxiv, Apr 22 2025. [[[http://arxiv.org/abs/2504.16054][Paper]]] [[[https://www.pi.website/blog/pi05][Website]]]
+
+- $\pi_0$: $\pi_0$: A Vision-Language-Action Flow Model for  General Robot Control, Physical Intelligence, arxiv, Oct 31 2024. [[[https://physicalintelligence.company/blog/pi0][Website]]] [[[http://arxiv.org/abs/2410.24164][Paper]]] [[[https://github.com/Physical-Intelligence/openpi][Code]]]
 
 
 ** Others
